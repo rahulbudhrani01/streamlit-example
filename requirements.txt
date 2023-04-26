@@ -4,3 +4,7 @@ streamlit
 openai
 dotenv
 os
+openai
+pinecone-client
+tqdm
+streamlit-chat
